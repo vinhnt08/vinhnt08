@@ -3,7 +3,6 @@
 
 <h2 align="left">Tech Stacks</h2>
 
-
 ###
 
 <div align="left">
